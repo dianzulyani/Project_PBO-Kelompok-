@@ -1,5 +1,42 @@
-# Project_PBO-Kelompok4
+SELAMAT DATANG DI PROGRAM PEMBELANJAAN ONLINE DENGAN JAVA - KELOMPOK 4
+
 Nama Anggota:
 1. Akrimah Usri 2308107010009
 2. Dian Zulyani 2308107010021
 3. Yulli Erisna 2308107010015
+
+Deskripsi Singkat
+    Proyek ini adalah sistem perbelanjaan online berbasis Java dengan antarmuka GUI. 
+Program ini dirancang untuk memenuhi kebutuhan pengelolaan akun admin dan pelanggan, termasuk fitur transaksi serta manajemen barang.
+
+Akun Login
+=Admin:
+Username: admin
+Password: admin123
+
+=Pelanggan:
+Username: user
+Password: user123
+
+Fitur Utama
+
+Akun Admin
+- Menambah, menghapus, dan mengedit barang dalam sistem.
+
+Akun Pelanggan
+- Melihat daftar barang yang tersedia.
+- Menambahkan barang ke keranjang belanja.
+- Melakukan checkout dengan berbagai metode pembayaran.
+
+Alur Aplikasi
+- Pengguna login ke sistem (sebagai Admin atau Pelanggan).
+- Melihat daftar barang yang tersedia.
+- Menambahkan barang ke dalam keranjang belanja.
+- Melakukan checkout atau transaksi.
+- Memilih metode pembayaran.
+- Invoice tercetak, dan transaksi selesai.
+
+Teknologi dan Konsep yang Digunakan
+- Object-Oriented Programming (OOP): Menggunakan prinsip Abstraction, Polymorphism, Inheritance, dan Encapsulation.
+- Collection Framework: Untuk mengelola data barang dan transaksi.
+- Exception Handling: Menangani berbagai kesalahan input dan output.
