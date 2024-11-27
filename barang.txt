@@ -1,0 +1,5 @@
+Laptop,1.5E7
+Mouse,50000.0
+Keyboard,150000.0
+tws,200000.0
+speaker,150000.0
